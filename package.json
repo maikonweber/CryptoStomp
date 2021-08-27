@@ -1,0 +1,17 @@
+{
+  "name": "cryptostomp",
+  "version": "0.0.1",
+  "description": "cryptoStomp detect opotunity in crypto changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.2.2"
+  },
+  "dependencies": {
+    "ws": "^8.2.0"
+  }
+}
